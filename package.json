@@ -15,7 +15,7 @@
   },
   "peerDependencies": {
     "bluebird": "^2.1.1",
-    "react": "0.10.0 - 0.11.x"
+    "react": "0.10.0 - 0.12.x"
   },
   "devDependencies": {
     "reactify": "^0.13.1",
